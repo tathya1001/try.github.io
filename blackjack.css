@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre&display=swap');
+
+body {
+    background-color: #007e45;
+}
+
+* {
+    font-family: 'Averia Serif Libre', cursive;
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading1 {
+    font-size: 7rem;
+    text-align: center;
+    color: #014224a1;
+    margin-top: 2rem;
+    font-weight: 700;
+}
+
+.msg {
+    font-size: 2.5rem;
+    text-align: center;
+    /* font-weight: 700; */
+    /* margin-top: 0.5rem; */
+    color: #ffffff;
+}
+
+.msg {
+    font-size: 2.5rem;
+    text-align: center;
+    /* font-weight: 700; */
+    /* margin-top: 0.5rem; */
+    color: #ffffff;
+}
+
+.cards, .sum {
+    font-size: 2.25rem;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 1.5rem;
+    color: #014224a1;
+}
+.sum {
+    margin-top: 0.25rem;
+}
+.out, .sum-el {
+    font-size: 3.75rem;
+    text-align: center;
+    font-weight: 800;
+    /* margin-top: 0.25rem; */
+    color: #ffffff;
+}
+
+.new, .crd {
+    width: 18rem;
+    height: 2.5rem;
+    border-radius: 0.35rem;
+    font-size: 1.25rem;
+    font-weight: 800;
+    border: none;
+    color: #007e45;
+    margin-top: 1rem;
+}
+
+.new:hover,.crd:hover {
+    background-color: #ffffffbb;
+}

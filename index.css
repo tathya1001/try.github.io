@@ -1,0 +1,116 @@
+* {
+    font-family: 'inter semibold';
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.heading1 {
+
+    /* font-family: 'inter medium'; */
+    font-size: 4rem;
+    text-align: center;
+    color: #dddddd;
+    margin-top: 4rem;
+}
+
+.count {
+    font-family: 'inter black';
+    font-size: 8rem;
+    text-align: center;
+}
+
+.btn button {
+    text-align: center;
+    font-size: 2rem;
+    padding: 5px 15px 5px 15px;
+    border-radius: 0.5rem;
+    
+}
+
+.countbtn {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 5px 15px 5px 15px;
+    border-radius: 0.5rem;
+    background-color: rgb(16, 148, 236);
+    color: white;
+    width: 12rem;
+    border: none;
+    margin-top: 1rem;
+
+}
+
+.countbtn:hover {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 5px 15px 5px 15px;
+    border-radius: 0.5rem;
+    background-color: rgba(16, 148, 236, 0.7);
+    color: white;
+    width: 12rem;
+    border: none;
+}
+
+.savebtn {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 5px 15px 5px 15px;
+    border-radius: 0.5rem;
+    background-color: rgb(0, 165, 19);
+    color: white;
+    width: 12rem;
+    border: none;
+    margin-top: 1rem;
+}
+
+.savebtn:hover {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 5px 15px 5px 15px;
+    border-radius: 0.5rem;
+    background-color: rgba(0, 165, 19, 0.7);
+    color: white;
+    width: 12rem;
+    border: none;
+}
+
+.parahead{
+    /* font-family: 'inter medium'; */
+    font-size: 1.5rem;
+    text-align: center;
+    color: #dddddd;
+    margin-top: 1rem;
+}
+
+.prv{
+    /* font-family: 'inter medium'; */
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 0.25rem;
+    font-family: 'inter black';
+    text-align: center;
+}
+
+.nextbtn {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 5px 15px 5px 15px;
+    border-radius: 0.5rem;
+    background-color: rgb(233, 182, 0);
+    color: white;
+    width: 12rem;
+    border: none;
+    margin-top: 1rem;
+}
+
+.nextbtn:hover {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 5px 15px 5px 15px;
+    border-radius: 0.5rem;
+    background-color: rgb(233, 182, 0,0.7);
+    color: white;
+    width: 12rem;
+    border: none;
+}
